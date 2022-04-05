@@ -44,6 +44,10 @@ h1{
   color:#fad493;
 }
 
+#aboutLink {
+  color: #ffe5b8; 
+}
+
 #imageButtons{
 
   float: left;
@@ -106,9 +110,6 @@ h1{
   max-width: 100%
 }
 
-#clickableTableHeader:hover {
-  background-color:#FFFFFF;
-}
 
 .openbtn:hover {
   background-color:#4a1600;
